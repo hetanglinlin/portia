@@ -1,5 +1,5 @@
 # Slybot requirements
-numpy==1.16.4
+numpy==1.22.0
 Scrapy==1.6.0
 scrapely==0.13.5
 loginform==1.2.0
